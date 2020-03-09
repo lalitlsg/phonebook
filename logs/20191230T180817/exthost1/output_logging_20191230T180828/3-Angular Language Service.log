@@ -1,0 +1,4 @@
+[Info  - 6:08:28 PM] Angular language server process ID: 4088
+[Info  - 6:08:28 PM] Using typescript v3.6.4 from /root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 6:08:28 PM] Using @angular/language-service v9.0.0-rc.7 from /root/.vscode/extensions/angular.ng-template-0.900.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 6:08:28 PM] Log file: /home/gslab/Music/GoProject/phonebook/logs/20191230T180817/exthost1/Angular.ng-template/nglangsvc.log

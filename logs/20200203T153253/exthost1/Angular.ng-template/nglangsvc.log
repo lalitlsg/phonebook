@@ -1,0 +1,563 @@
+Info 0    [15:33:3.404] Format host information updated
+Info 1    [15:33:3.434] reload projects.
+Info 2    [15:33:3.437] Structure before ensureProjectForOpenFiles:
+Info 3    [15:33:3.438] Structure after ensureProjectForOpenFiles:
+Info 4    [15:33:3.449] Host file extension mappings updated
+Info 5    [15:33:5.206] Search path: /home/gslab/Music/GoProject/phonebook/src/app
+Info 6    [15:33:5.208] For info: /home/gslab/Music/GoProject/phonebook/src/app/socket.service.ts :: Config file name: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 7    [15:33:5.208] Opened configuration file /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 8    [15:33:5.875] Config: /home/gslab/Music/GoProject/phonebook/tsconfig.json : {
+ "rootNames": [
+  "/home/gslab/Music/GoProject/phonebook/e2e/src/app.e2e-spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/e2e/src/app.po.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/main.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/polyfills.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/test.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/admindashboard.service.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/admindashboard.service.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/app-routing.module.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/app.component.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/app.component.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/app.module.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/common.service.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/common.service.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/socket.service.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/socket.service.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/state.service.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/state.service.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/admindashboard/admindashboard.component.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/admindashboard/admindashboard.component.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/dashboard/dashboard.component.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/dashboard/dashboard.component.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/login/login.component.spec.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/app/login/login.component.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/environments/environment.prod.ts",
+  "/home/gslab/Music/GoProject/phonebook/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/gslab/Music/GoProject/phonebook",
+  "outDir": "/home/gslab/Music/GoProject/phonebook/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "module": 5,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/gslab/Music/GoProject/phonebook/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/gslab/Music/GoProject/phonebook/tsconfig.json"
+ }
+}
+Info 9    [15:33:10.34] Loading global plugin @angular/language-service
+Info 10   [15:33:10.36] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.900.5/node_modules/typescript/lib/tsserverlibrary.js/../../..,/root/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+Info 11   [15:33:10.37] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.900.5/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to /root/.vscode/extensions/angular.ng-template-0.900.5/node_modules/node_modules)
+Info 12   [15:33:10.64] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js (resolved to /root/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js/node_modules)
+Info 13   [15:33:10.417] Plugin validation succeded
+Info 14   [15:33:10.471] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 15   [15:33:24.432] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 1 structureChanged: true Elapsed: 13960ms
+Info 16   [15:33:24.469] Project '/home/gslab/Music/GoProject/phonebook/tsconfig.json' (Configured) 
+Info 17   [15:33:24.470] 	Files (594)
+
+Info 18   [15:33:24.470] -----------------------------------------------
+Info 19   [15:33:24.487] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 20   [15:33:24.612] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 2 structureChanged: false Elapsed: 110ms
+Info 21   [15:33:24.626] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 22   [15:33:24.661] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/main.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 23   [15:33:24.670] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/main.log
+Info 24   [15:33:24.675] Elapsed:: 6ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/main.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 25   [15:33:24.678] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/renderer1.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 26   [15:33:24.681] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/renderer1.log
+Info 27   [15:33:24.683] Elapsed:: 3ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/renderer1.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 28   [15:33:24.685] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/sharedprocess.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 29   [15:33:24.685] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/sharedprocess.log
+Info 30   [15:33:24.685] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/sharedprocess.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 31   [15:33:24.685] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/telemetry.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 32   [15:33:24.688] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/telemetry.log
+Info 33   [15:33:24.690] Elapsed:: 2ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/telemetry.log :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 34   [15:33:24.691] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/output_1_20191223T133350 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 35   [15:33:24.693] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/output_1_20191223T133350 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 36   [15:33:24.698] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/exthost1 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 37   [15:33:24.699] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347/exthost1 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 38   [15:33:24.700] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 39   [15:33:24.706] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 40   [15:33:24.707] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 41   [15:33:24.707] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/logs/20191223T133347 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 42   [15:33:24.719] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 43   [15:33:24.730] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal
+Info 44   [15:33:24.731] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 45   [15:33:24.736] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 46   [15:33:24.736] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal
+Info 47   [15:33:24.737] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/globalStorage/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 48   [15:33:24.737] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/047afb5f73a81c81_0 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 49   [15:33:24.738] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/047afb5f73a81c81_0 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 50   [15:33:24.739] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/047afb5f73a81c81_0 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 51   [15:33:24.739] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/047afb5f73a81c81_0 :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 52   [15:33:25.124] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 53   [15:33:25.177] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 3 structureChanged: false Elapsed: 51ms
+Info 54   [15:33:25.183] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 55   [15:33:28.132] Structure before ensureProjectForOpenFiles:
+Info 56   [15:33:28.133] Structure after ensureProjectForOpenFiles:
+Info 57   [15:33:43.769] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 58   [15:33:43.770] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 59   [15:33:43.770] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 60   [15:33:43.770] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 61   [15:33:43.770] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 62   [15:33:43.770] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 63   [15:33:44.61] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 64   [15:33:44.156] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 4 structureChanged: false Elapsed: 90ms
+Info 65   [15:33:44.158] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 66   [15:33:44.161] Structure before ensureProjectForOpenFiles:
+Info 67   [15:33:44.162] Structure after ensureProjectForOpenFiles:
+Info 68   [15:38:24.208] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 69   [15:38:24.209] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 70   [15:38:24.210] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 71   [15:38:24.210] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 72   [15:38:24.211] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 73   [15:38:24.211] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 74   [15:38:24.479] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 75   [15:38:24.515] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 5 structureChanged: false Elapsed: 36ms
+Info 76   [15:38:24.516] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 77   [15:38:24.516] Structure before ensureProjectForOpenFiles:
+Info 78   [15:38:24.516] Structure after ensureProjectForOpenFiles:
+Info 79   [15:43:24.230] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 80   [15:43:24.231] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 81   [15:43:24.232] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 82   [15:43:24.232] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 83   [15:43:24.233] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 84   [15:43:24.233] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 85   [15:43:24.503] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 86   [15:43:24.541] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 6 structureChanged: false Elapsed: 38ms
+Info 87   [15:43:24.541] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 88   [15:43:24.541] Structure before ensureProjectForOpenFiles:
+Info 89   [15:43:24.541] Structure after ensureProjectForOpenFiles:
+Info 90   [15:48:24.247] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 91   [15:48:24.248] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 92   [15:48:24.248] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 93   [15:48:24.249] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 94   [15:48:24.250] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 95   [15:48:24.250] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 96   [15:48:24.519] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 97   [15:48:24.545] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 7 structureChanged: false Elapsed: 25ms
+Info 98   [15:48:24.545] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 99   [15:48:24.545] Structure before ensureProjectForOpenFiles:
+Info 100  [15:48:24.545] Structure after ensureProjectForOpenFiles:
+Info 101  [15:53:24.268] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 102  [15:53:24.269] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 103  [15:53:24.270] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 104  [15:53:24.271] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 105  [15:53:24.271] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 106  [15:53:24.271] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 107  [15:53:24.535] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 108  [15:53:24.569] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 8 structureChanged: false Elapsed: 34ms
+Info 109  [15:53:24.571] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 110  [15:53:24.572] Structure before ensureProjectForOpenFiles:
+Info 111  [15:53:24.572] Structure after ensureProjectForOpenFiles:
+Info 112  [15:58:24.288] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 113  [15:58:24.289] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 114  [15:58:24.290] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 115  [15:58:24.291] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 116  [15:58:24.291] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 117  [15:58:24.292] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 118  [15:58:24.555] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 119  [15:58:24.588] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 9 structureChanged: false Elapsed: 33ms
+Info 120  [15:58:24.589] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 121  [15:58:24.589] Structure before ensureProjectForOpenFiles:
+Info 122  [15:58:24.589] Structure after ensureProjectForOpenFiles:
+Info 123  [16:3:24.351] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 124  [16:3:24.352] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 125  [16:3:24.353] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 126  [16:3:24.354] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 127  [16:3:24.354] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 128  [16:3:24.354] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 129  [16:3:24.615] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 130  [16:3:24.643] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 10 structureChanged: false Elapsed: 27ms
+Info 131  [16:3:24.643] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 132  [16:3:24.643] Structure before ensureProjectForOpenFiles:
+Info 133  [16:3:24.643] Structure after ensureProjectForOpenFiles:
+Info 134  [16:8:24.374] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 135  [16:8:24.374] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 136  [16:8:24.375] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 137  [16:8:24.376] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 138  [16:8:24.376] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 139  [16:8:24.377] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 140  [16:8:24.643] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 141  [16:8:24.669] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 11 structureChanged: false Elapsed: 26ms
+Info 142  [16:8:24.669] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 143  [16:8:24.669] Structure before ensureProjectForOpenFiles:
+Info 144  [16:8:24.669] Structure after ensureProjectForOpenFiles:
+Info 145  [16:13:24.393] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 146  [16:13:24.394] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 147  [16:13:24.395] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 148  [16:13:24.396] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 149  [16:13:24.397] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 150  [16:13:24.397] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 151  [16:13:24.662] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 152  [16:13:24.685] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 12 structureChanged: false Elapsed: 23ms
+Info 153  [16:13:24.685] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 154  [16:13:24.685] Structure before ensureProjectForOpenFiles:
+Info 155  [16:13:24.685] Structure after ensureProjectForOpenFiles:
+Info 156  [16:18:24.412] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 157  [16:18:24.416] Elapsed:: 4ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 158  [16:18:24.417] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 159  [16:18:24.417] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 160  [16:18:24.418] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 161  [16:18:24.418] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 162  [16:18:24.679] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 163  [16:18:24.694] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 13 structureChanged: false Elapsed: 15ms
+Info 164  [16:18:24.694] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 165  [16:18:24.694] Structure before ensureProjectForOpenFiles:
+Info 166  [16:18:24.694] Structure after ensureProjectForOpenFiles:
+Info 167  [16:23:24.433] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 168  [16:23:24.433] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 169  [16:23:24.434] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 170  [16:23:24.435] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 171  [16:23:24.435] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 172  [16:23:24.436] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 173  [16:23:24.701] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 174  [16:23:24.736] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 14 structureChanged: false Elapsed: 35ms
+Info 175  [16:23:24.736] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 176  [16:23:24.736] Structure before ensureProjectForOpenFiles:
+Info 177  [16:23:24.736] Structure after ensureProjectForOpenFiles:
+Info 178  [16:28:24.454] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 179  [16:28:24.455] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 180  [16:28:24.456] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 181  [16:28:24.456] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 182  [16:28:24.457] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 183  [16:28:24.457] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 184  [16:28:24.721] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 185  [16:28:24.736] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 15 structureChanged: false Elapsed: 15ms
+Info 186  [16:28:24.736] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 187  [16:28:24.736] Structure before ensureProjectForOpenFiles:
+Info 188  [16:28:24.736] Structure after ensureProjectForOpenFiles:
+Info 189  [16:33:24.473] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 190  [16:33:24.474] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 191  [16:33:24.475] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 192  [16:33:24.475] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 193  [16:33:24.476] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 194  [16:33:24.476] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 195  [16:33:24.737] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 196  [16:33:24.759] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 16 structureChanged: false Elapsed: 21ms
+Info 197  [16:33:24.759] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 198  [16:33:24.759] Structure before ensureProjectForOpenFiles:
+Info 199  [16:33:24.759] Structure after ensureProjectForOpenFiles:
+Info 200  [16:38:24.493] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 201  [16:38:24.493] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 202  [16:38:24.494] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 203  [16:38:24.494] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 204  [16:38:24.494] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 205  [16:38:24.495] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 206  [16:38:24.758] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 207  [16:38:24.782] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 17 structureChanged: false Elapsed: 24ms
+Info 208  [16:38:24.782] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 209  [16:38:24.782] Structure before ensureProjectForOpenFiles:
+Info 210  [16:38:24.782] Structure after ensureProjectForOpenFiles:
+Info 211  [16:43:24.513] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 212  [16:43:24.514] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 213  [16:43:24.515] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 214  [16:43:24.515] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 215  [16:43:24.515] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 216  [16:43:24.516] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 217  [16:43:24.777] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 218  [16:43:24.792] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 18 structureChanged: false Elapsed: 15ms
+Info 219  [16:43:24.793] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 220  [16:43:24.793] Structure before ensureProjectForOpenFiles:
+Info 221  [16:43:24.793] Structure after ensureProjectForOpenFiles:
+Info 222  [16:48:24.531] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 223  [16:48:24.532] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 224  [16:48:24.533] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 225  [16:48:24.533] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 226  [16:48:24.534] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 227  [16:48:24.534] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 228  [16:48:24.799] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 229  [16:48:24.817] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 19 structureChanged: false Elapsed: 18ms
+Info 230  [16:48:24.817] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 231  [16:48:24.817] Structure before ensureProjectForOpenFiles:
+Info 232  [16:48:24.817] Structure after ensureProjectForOpenFiles:
+Info 233  [16:53:24.549] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 234  [16:53:24.549] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 235  [16:53:24.550] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 236  [16:53:24.550] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 237  [16:53:24.551] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 238  [16:53:24.551] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 239  [16:53:24.812] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 240  [16:53:24.831] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 20 structureChanged: false Elapsed: 19ms
+Info 241  [16:53:24.831] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 242  [16:53:24.831] Structure before ensureProjectForOpenFiles:
+Info 243  [16:53:24.831] Structure after ensureProjectForOpenFiles:
+Info 244  [16:58:24.569] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 245  [16:58:24.569] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 246  [16:58:24.570] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 247  [16:58:24.571] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 248  [16:58:24.571] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 249  [16:58:24.571] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 250  [16:58:24.832] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 251  [16:58:24.848] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 21 structureChanged: false Elapsed: 16ms
+Info 252  [16:58:24.848] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 253  [16:58:24.848] Structure before ensureProjectForOpenFiles:
+Info 254  [16:58:24.848] Structure after ensureProjectForOpenFiles:
+Info 255  [17:3:24.648] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 256  [17:3:24.649] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 257  [17:3:24.649] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 258  [17:3:24.649] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 259  [17:3:24.650] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 260  [17:3:24.650] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 261  [17:3:24.914] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 262  [17:3:24.931] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 22 structureChanged: false Elapsed: 17ms
+Info 263  [17:3:24.931] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 264  [17:3:24.931] Structure before ensureProjectForOpenFiles:
+Info 265  [17:3:24.931] Structure after ensureProjectForOpenFiles:
+Info 266  [17:8:24.670] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 267  [17:8:24.671] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 268  [17:8:24.671] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 269  [17:8:24.672] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 270  [17:8:24.672] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 271  [17:8:24.672] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 272  [17:8:24.939] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 273  [17:8:24.956] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 23 structureChanged: false Elapsed: 17ms
+Info 274  [17:8:24.957] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 275  [17:8:24.957] Structure before ensureProjectForOpenFiles:
+Info 276  [17:8:24.957] Structure after ensureProjectForOpenFiles:
+Info 277  [17:13:24.687] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 278  [17:13:24.688] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 279  [17:13:24.689] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 280  [17:13:24.690] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 281  [17:13:24.690] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 282  [17:13:24.691] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 283  [17:13:24.954] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 284  [17:13:24.975] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 24 structureChanged: false Elapsed: 21ms
+Info 285  [17:13:24.975] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 286  [17:13:24.975] Structure before ensureProjectForOpenFiles:
+Info 287  [17:13:24.975] Structure after ensureProjectForOpenFiles:
+Info 288  [17:18:24.705] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 289  [17:18:24.706] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 290  [17:18:24.706] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 291  [17:18:24.707] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 292  [17:18:24.708] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 293  [17:18:24.708] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 294  [17:18:24.968] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 295  [17:18:24.991] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 25 structureChanged: false Elapsed: 23ms
+Info 296  [17:18:24.991] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 297  [17:18:24.992] Structure before ensureProjectForOpenFiles:
+Info 298  [17:18:24.992] Structure after ensureProjectForOpenFiles:
+Info 299  [17:23:24.724] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 300  [17:23:24.725] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 301  [17:23:24.725] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 302  [17:23:24.726] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 303  [17:23:24.726] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 304  [17:23:24.726] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 305  [17:23:24.987] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 306  [17:23:25.3] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 26 structureChanged: false Elapsed: 16ms
+Info 307  [17:23:25.3] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 308  [17:23:25.3] Structure before ensureProjectForOpenFiles:
+Info 309  [17:23:25.3] Structure after ensureProjectForOpenFiles:
+Info 310  [17:28:24.745] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 311  [17:28:24.746] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 312  [17:28:24.747] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 313  [17:28:24.748] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 314  [17:28:24.748] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 315  [17:28:24.749] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 316  [17:28:25.14] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 317  [17:28:25.38] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 27 structureChanged: false Elapsed: 23ms
+Info 318  [17:28:25.38] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 319  [17:28:25.38] Structure before ensureProjectForOpenFiles:
+Info 320  [17:28:25.38] Structure after ensureProjectForOpenFiles:
+Info 321  [17:33:24.767] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 322  [17:33:24.767] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 323  [17:33:24.768] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 324  [17:33:24.768] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 325  [17:33:24.769] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 326  [17:33:24.769] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 327  [17:33:25.36] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 328  [17:33:25.57] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 28 structureChanged: false Elapsed: 21ms
+Info 329  [17:33:25.57] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 330  [17:33:25.57] Structure before ensureProjectForOpenFiles:
+Info 331  [17:33:25.57] Structure after ensureProjectForOpenFiles:
+Info 332  [17:38:24.786] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 333  [17:38:24.787] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 334  [17:38:24.787] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 335  [17:38:24.788] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 336  [17:38:24.788] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 337  [17:38:24.788] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 338  [17:38:25.54] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 339  [17:38:25.71] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 29 structureChanged: false Elapsed: 17ms
+Info 340  [17:38:25.71] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 341  [17:38:25.71] Structure before ensureProjectForOpenFiles:
+Info 342  [17:38:25.71] Structure after ensureProjectForOpenFiles:
+Info 343  [17:43:24.801] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 344  [17:43:24.802] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 345  [17:43:24.803] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 346  [17:43:24.804] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 347  [17:43:24.804] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 348  [17:43:24.805] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 349  [17:43:25.67] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 350  [17:43:25.85] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 30 structureChanged: false Elapsed: 18ms
+Info 351  [17:43:25.86] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 352  [17:43:25.86] Structure before ensureProjectForOpenFiles:
+Info 353  [17:43:25.86] Structure after ensureProjectForOpenFiles:
+Info 354  [17:48:24.814] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 355  [17:48:24.815] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 356  [17:48:24.815] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 357  [17:48:24.816] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 358  [17:48:24.817] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 359  [17:48:24.817] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 360  [17:48:25.89] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 361  [17:48:25.111] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 31 structureChanged: false Elapsed: 22ms
+Info 362  [17:48:25.111] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 363  [17:48:25.111] Structure before ensureProjectForOpenFiles:
+Info 364  [17:48:25.111] Structure after ensureProjectForOpenFiles:
+Info 365  [17:53:24.830] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 366  [17:53:24.831] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 367  [17:53:24.832] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 368  [17:53:24.833] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 369  [17:53:24.833] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 370  [17:53:24.834] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 371  [17:53:25.93] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 372  [17:53:25.131] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 32 structureChanged: false Elapsed: 38ms
+Info 373  [17:53:25.131] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 374  [17:53:25.131] Structure before ensureProjectForOpenFiles:
+Info 375  [17:53:25.131] Structure after ensureProjectForOpenFiles:
+Info 376  [17:58:24.852] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 377  [17:58:24.853] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 378  [17:58:24.854] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 379  [17:58:24.854] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 380  [17:58:24.855] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 381  [17:58:24.855] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 382  [17:58:25.116] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 383  [17:58:25.144] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 33 structureChanged: false Elapsed: 28ms
+Info 384  [17:58:25.145] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 385  [17:58:25.145] Structure before ensureProjectForOpenFiles:
+Info 386  [17:58:25.145] Structure after ensureProjectForOpenFiles:
+Info 387  [18:3:24.905] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 388  [18:3:24.906] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 389  [18:3:24.906] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 390  [18:3:24.907] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 391  [18:3:24.907] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 392  [18:3:24.908] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 393  [18:3:25.170] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 394  [18:3:25.185] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 34 structureChanged: false Elapsed: 14ms
+Info 395  [18:3:25.186] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 396  [18:3:25.186] Structure before ensureProjectForOpenFiles:
+Info 397  [18:3:25.186] Structure after ensureProjectForOpenFiles:
+Info 398  [18:8:24.929] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 399  [18:8:24.930] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 400  [18:8:24.931] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 401  [18:8:24.931] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 402  [18:8:24.932] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 403  [18:8:24.932] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 404  [18:8:25.195] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 405  [18:8:25.209] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 35 structureChanged: false Elapsed: 14ms
+Info 406  [18:8:25.210] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 407  [18:8:25.210] Structure before ensureProjectForOpenFiles:
+Info 408  [18:8:25.210] Structure after ensureProjectForOpenFiles:
+Info 409  [18:13:24.954] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 410  [18:13:24.955] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 411  [18:13:24.955] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 412  [18:13:24.956] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 413  [18:13:24.956] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 414  [18:13:24.956] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 415  [18:13:25.223] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 416  [18:13:25.246] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 36 structureChanged: false Elapsed: 23ms
+Info 417  [18:13:25.246] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 418  [18:13:25.246] Structure before ensureProjectForOpenFiles:
+Info 419  [18:13:25.246] Structure after ensureProjectForOpenFiles:
+Info 420  [18:18:24.976] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 421  [18:18:24.977] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 422  [18:18:24.978] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 423  [18:18:24.979] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 424  [18:18:24.979] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 425  [18:18:24.980] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 426  [18:18:25.246] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 427  [18:18:25.269] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 37 structureChanged: false Elapsed: 22ms
+Info 428  [18:18:25.269] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 429  [18:18:25.270] Structure before ensureProjectForOpenFiles:
+Info 430  [18:18:25.270] Structure after ensureProjectForOpenFiles:
+Info 431  [18:23:24.998] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 432  [18:23:24.999] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 433  [18:23:24.999] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 434  [18:23:25.0] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 435  [18:23:25.1] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 436  [18:23:25.1] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 437  [18:23:25.268] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 438  [18:23:25.287] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 38 structureChanged: false Elapsed: 19ms
+Info 439  [18:23:25.287] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 440  [18:23:25.287] Structure before ensureProjectForOpenFiles:
+Info 441  [18:23:25.287] Structure after ensureProjectForOpenFiles:
+Info 442  [18:28:25.21] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 443  [18:28:25.22] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 444  [18:28:25.22] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 445  [18:28:25.23] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 446  [18:28:25.24] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 447  [18:28:25.24] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 448  [18:28:25.291] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 449  [18:28:25.315] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 39 structureChanged: false Elapsed: 24ms
+Info 450  [18:28:25.315] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 451  [18:28:25.315] Structure before ensureProjectForOpenFiles:
+Info 452  [18:28:25.315] Structure after ensureProjectForOpenFiles:
+Info 453  [18:33:25.46] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 454  [18:33:25.47] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 455  [18:33:25.48] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 456  [18:33:25.48] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 457  [18:33:25.49] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 458  [18:33:25.49] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 459  [18:33:25.311] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 460  [18:33:25.344] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 40 structureChanged: false Elapsed: 33ms
+Info 461  [18:33:25.344] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 462  [18:33:25.344] Structure before ensureProjectForOpenFiles:
+Info 463  [18:33:25.344] Structure after ensureProjectForOpenFiles:
+Info 464  [18:38:25.67] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 465  [18:38:25.68] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 466  [18:38:25.69] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 467  [18:38:25.70] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 468  [18:38:25.70] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 469  [18:38:25.71] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 470  [18:38:25.332] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 471  [18:38:25.356] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 41 structureChanged: false Elapsed: 24ms
+Info 472  [18:38:25.356] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 473  [18:38:25.356] Structure before ensureProjectForOpenFiles:
+Info 474  [18:38:25.357] Structure after ensureProjectForOpenFiles:
+Info 475  [18:43:25.86] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 476  [18:43:25.87] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 477  [18:43:25.88] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 478  [18:43:25.89] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 479  [18:43:25.89] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 480  [18:43:25.90] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 481  [18:43:25.357] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 482  [18:43:25.381] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 42 structureChanged: false Elapsed: 24ms
+Info 483  [18:43:25.381] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 484  [18:43:25.381] Structure before ensureProjectForOpenFiles:
+Info 485  [18:43:25.381] Structure after ensureProjectForOpenFiles:
+Info 486  [18:48:25.109] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 487  [18:48:25.110] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 488  [18:48:25.111] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 489  [18:48:25.111] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 490  [18:48:25.112] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 491  [18:48:25.113] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 492  [18:48:25.375] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 493  [18:48:25.397] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 43 structureChanged: false Elapsed: 22ms
+Info 494  [18:48:25.397] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 495  [18:48:25.397] Structure before ensureProjectForOpenFiles:
+Info 496  [18:48:25.397] Structure after ensureProjectForOpenFiles:
+Info 497  [18:53:25.128] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 498  [18:53:25.129] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 499  [18:53:25.130] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 500  [18:53:25.130] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/temp-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 501  [18:53:25.131] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 502  [18:53:25.132] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/Cache/index-dir/the-real-index :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 503  [18:53:25.393] Starting updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json
+Info 504  [18:53:25.409] Finishing updateGraphWorker: Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Version: 44 structureChanged: false Elapsed: 16ms
+Info 505  [18:53:25.409] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 506  [18:53:25.409] Structure before ensureProjectForOpenFiles:
+Info 507  [18:53:25.409] Structure after ensureProjectForOpenFiles:
+Info 508  [18:54:18.155] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 509  [18:54:18.156] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal
+Info 510  [18:54:18.156] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 511  [18:54:18.348] DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory
+Info 512  [18:54:18.348] Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json Detected file add/remove of non supported extension: /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal
+Info 513  [18:54:18.348] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/gslab/Music/GoProject/phonebook/User/workspaceStorage/419cabdf4fdc392fcf72fc82036ee010/state.vscdb-journal :: WatchInfo: /home/gslab/Music/GoProject/phonebook 1 Project: /home/gslab/Music/GoProject/phonebook/tsconfig.json WatchType: Wild card directory

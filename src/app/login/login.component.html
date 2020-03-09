@@ -1,0 +1,25 @@
+<div class="login">
+  <form [formGroup]="userLogin" (ngSubmit)="login()">
+    <input type="text" placeholder="Username" formControlName="username"><br><br>
+    <input type="password" placeholder="Password" formControlName="password"><br><br>
+    <p *ngIf="loginNotSuccessful">Username or Password Incorrect!</p>
+    <button type="submit" class="login-btn" [disabled]="!userLogin.valid">Login</button>
+    <p>Don't have an Account?</p>
+  </form>
+  <button class="click-here-btn" (click)="register()">Click Here!</button>
+
+</div>
+
+<div *ngIf="isUserNotRegistered" class="register">
+    <input type="text" placeholder="Username" [formControl]="usernameReg"><br><br>
+    <input type="password" placeholder="Password" [formControl]="passwordReg"><br><br>
+    <input type="password" placeholder="Confirm Password" [formControl]="cnfPasswordReg"><br><br>
+    <span *ngIf="passwordReg.value != cnfPasswordReg.value">
+      password & confirm password must be same
+    </span><br><br>
+    <button type="submit" class="register-btn" (click)="registerUser()"
+    [disabled]="passwordReg.value != cnfPasswordReg.value"
+    >Register</button>
+</div>
+
+<div class="register-successful" *ngIf="userRegisteredSuccessfully">Registration Successful!</div>

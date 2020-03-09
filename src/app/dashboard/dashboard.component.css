@@ -1,0 +1,64 @@
+
+.edit-btn{
+    background: green;
+    color: white;
+    margin-left: 17%;
+    display: table;
+    height: 20px;
+    position: absolute;
+    overflow: hidden;
+    width: 4%;
+}
+
+.delete-btn{
+    background: red;
+    color: white;
+    margin-left: 12%;
+    display: table;
+    height: 20px;
+    position: absolute;
+    overflow: hidden;
+    width: 4%;
+}
+
+.show-people{
+    width: 45%;
+    float: left;
+
+}
+
+.form-field{
+    margin: 15px 15px 15px 15px;
+}
+
+.add-contact-btn{
+    margin: 0px 0px 0px 60px;
+    background: black;
+    color: white;
+}
+
+.add-person-heading{
+    margin-left: 60px;
+}
+
+.user{
+  height: 50px;
+}
+
+#wrapper {
+    display:table;
+    width:700px;
+    width: 45%;
+    float: right;
+  }
+  #row {
+    display:table-row;
+  }
+  #first {
+    display:table-cell;
+    width:200px;
+  }
+  #second {
+    display:table-cell;
+    width:200px;
+  }

@@ -1,0 +1,62 @@
+
+<html>
+    <head>
+      <title>phonebook</title>
+    </head>
+    <body>
+      <div *ngIf="user" class="user">
+       <b>User: </b> {{user}}
+      </div>
+      <div class="show-people">
+          <div *ngFor="let i of people">
+              <span style="color: red">{{i.id}}</span>&nbsp;
+              <span style="color: blue">{{i.firstname}}</span>&nbsp;
+              <span style="color: blue">{{i.lastname}}</span>
+              <button class="delete-btn" (click)="deletePerson(i)">Delete</button>
+              <button class="edit-btn" (click)="onClickEditForm(i)">Edit</button>
+              <p>
+               <small>{{i.contactinfo.city}}</small>&nbsp;&nbsp; 
+               <small>{{i.contactinfo.Zipcode}}</small>&nbsp;&nbsp;
+               <small>{{i.contactinfo.phone}}</small> 
+            </p>
+            <hr>
+            </div>
+      </div>
+      <div id="wrapper">
+        <div id="row">
+      <div *ngIf="user" id="first">
+        <b class="add-person-heading">Add Person</b>
+        <form [formGroup]="addContactForm" (ngSubmit)="addPerson()">
+          <input class="form-field" type="text" placeholder="Id" formControlName="id"><br>
+          <input class="form-field" type="text" placeholder="Firstname" formControlName="firstname"><br>
+          <input class="form-field" type="text" placeholder="Lastname" formControlName="lastname"><br>
+          <input class="form-field" type="text" placeholder="City" formControlName="city"><br>
+          <input class="form-field" type="text" placeholder="Zipcode" formControlName="zipcode"><br>
+          <input class="form-field" type="text" placeholder="Phone" formControlName="phone"><br>
+          <button class="add-contact-btn" type="submit">Add Person</button>
+  
+        </form>
+      </div>
+  
+      <div id="second" *ngIf="openform">
+          <b class="add-person-heading">Edit Person</b>
+  
+          <form [formGroup]="editContactForm" (ngSubmit)="editPerson()">
+            <input class="form-field" type="text" placeholder="Id" formControlName="editid" [(ngModel)]="edit.id"><br>
+            <input class="form-field" type="text" placeholder="Firstname" formControlName="editfirstname" [(ngModel)]="edit.firstname"><br>
+            <input class="form-field" type="text" placeholder="Lastname" formControlName="editlastname" [(ngModel)]="edit.lastname"><br>
+            <input class="form-field" type="text" placeholder="City" formControlName="editcity" [(ngModel)]="edit.contactinfo.city"><br>
+            <input class="form-field" type="text" placeholder="Zipcode" formControlName="editzipcode" [(ngModel)]="edit.contactinfo.zipcode"><br>
+            <input class="form-field" type="text" placeholder="Phone" formControlName="editphone" [(ngModel)]="edit.contactinfo.phone"><br>
+            <button class="add-contact-btn" type="submit">Edit Person</button>
+    
+          </form>
+        </div>
+      </div>
+      </div>
+    </body>
+  </html>
+  
+  
+  <router-outlet></router-outlet>
+  

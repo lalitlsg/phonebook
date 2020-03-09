@@ -1,0 +1,17 @@
+[Info  - 2:51:47 PM] Angular language server process ID: 10741
+[Info  - 2:51:47 PM] Using typescript v3.6.4 from /root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 2:51:47 PM] Using @angular/language-service v9.0.0-rc.7 from /root/.vscode/extensions/angular.ng-template-0.900.3/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 2:51:48 PM] Log file: /home/gslab/Music/GoProject/phonebook/logs/20200108T145134/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 4:07:10 PM] Disabling language service for /home/gslab/Music/GoProject/phonebook/node_modules/protractor/tsconfig.json because it is not an Angular project. There are 1 files in the project but '@angular/core/core.d.ts' is not detected.
+[Error - 4:07:10 PM] TypeError: Cannot read property 'getOptionsDiagnostics' of undefined
+    at Object.getCompilerOptionsDiagnostics (/root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js:125924:43)
+    at ProjectService.sendConfigFileDiagEvent (/root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js:131932:64)
+    at ProjectService.assignProjectToOpenedScriptInfo (/root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js:132606:38)
+    at ProjectService.openClientFileWithNormalizedPath (/root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js:132652:31)
+    at ProjectService.openClientFile (/root/.vscode/extensions/angular.ng-template-0.900.3/node_modules/typescript/lib/tsserverlibrary.js:132536:29)
+    at ProjectService.openClientFile (/root/.vscode/extensions/angular.ng-template-0.900.3/server/index.js:811:32)
+    at Session.onDidOpenTextDocument (/root/.vscode/extensions/angular.ng-template-0.900.3/server/index.js:1047:49)
+    at conn.onDidOpenTextDocument.p (/root/.vscode/extensions/angular.ng-template-0.900.3/server/index.js:937:47)
+    at handleNotification (/root/.vscode/extensions/angular.ng-template-0.900.3/server/node_modules/vscode-jsonrpc/lib/main.js:489:43)
+    at processMessageQueue (/root/.vscode/extensions/angular.ng-template-0.900.3/server/node_modules/vscode-jsonrpc/lib/main.js:260:17)
+[Error - 4:07:10 PM] Notification handler 'textDocument/didOpen' failed with message: Cannot read property 'getOptionsDiagnostics' of undefined

@@ -1,0 +1,27 @@
+.login{
+    margin-left: 10px;
+    margin-top: 50px;
+    
+}
+
+.register{
+    margin-left: 10px;
+    margin-top: 50px;    
+}
+
+
+.login-btn{
+    margin-left: 50px;
+}
+
+.click-here-btn{
+    margin-left: 35px;
+}
+
+.register-btn{
+    margin-left: 40px;
+}
+
+.register-successful{
+    margin: 10px 0px 0px 10px;
+}
